@@ -1,0 +1,15 @@
+commit 3f9a23e3bdd02d82896a4356514ed83349c9f9ff 
+Author: Iamryszard <ricardogauto11@gmail.com>
+
+Date:   Thu Apr 14 16:02:48 2016 -0300
+
+    Ejercicios condicionales
+
+
+
+commit 5780b3a1a18be0573b5a4cbf54e17d668266df63
+ Author: Ricardo Gauto <Ricardo Gauto>
+
+Date:   Thu Apr 14 09:28:35 2016 -0300
+
+    Agregando el txt
